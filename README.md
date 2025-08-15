@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Selina Zhang
-- 👀 I’m interested in tech, data science, and volunteering.
+- 👀 I’m interested in tech, data science, and front-end development.
 - 🌱 I’m currently learning Python, Javascript and HTML.
 - 💞️ I’m looking to collaborate on more projects that help solve social issues, and make more creative projects.
 - 📫 How to reach me 08selinazhang@gamil.com
